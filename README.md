@@ -8,4 +8,4 @@ Kevin C. Ma`*`, Jaime E. Hale`*`, Yonatan H. Grad, Galit Alter, Katherine Luzuri
 
 Correspondence on code issues: kevinchenma@g.harvard.edu
 
-The Jupyter notebook, which steps through all analyses, can be [downloaded here]() and [visualized here]().
+The Jupyter notebook, which steps through all analyses, can be [downloaded here](https://github.com/gradlab/covid19-newborn-seroprevalence/blob/main/seroprevalence-notebook.ipynb) and [visualized here](https://nbviewer.ipython.org/github/gradlab/covid19-newborn-seroprevalence/blob/main/seroprevalence-notebook.ipynb).
