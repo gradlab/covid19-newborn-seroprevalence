@@ -4,7 +4,7 @@ Kevin C. Ma`*`, Jaime E. Hale`*`, Yonatan H. Grad, Galit Alter, Katherine Luzuri
 
 `*` `^` denotes equal contribution.
 
-[doi: 10.1101/2021.10.29.21265678](https://www.medrxiv.org/content/10.1101/2021.10.29.21265678v1)
+[doi: 10.1093/cid/ciac158](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac158/6537111)
 
 Correspondence on code issues: kevinchenma@g.harvard.edu
 
